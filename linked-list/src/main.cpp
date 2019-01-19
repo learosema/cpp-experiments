@@ -8,15 +8,9 @@ int main(int argc, char **argv) {
   a.push(30);
   a.print();
 
-
   std::cout << a.unshift() << ", ";
   std::cout << a.unshift() << ", ";
   std::cout << a.unshift() << std::endl;
-
-
-
-
-
 
   return 0;
 }
